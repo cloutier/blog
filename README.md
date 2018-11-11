@@ -63,4 +63,6 @@ Check the [FAQ](./FAQ.md) if you have any doubt or problem.
 
 ---
 
+Content under [Creative Commonds Attribution-NoDerivatives 4.0 International ](https://creativecommons.org/licenses/by-nd/4.0/).
+
 [MIT](http://kopplin.mit-license.org/) License © Sérgio Kopplin
